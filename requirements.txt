@@ -1,4 +1,4 @@
 Flask
 gunicorn
-sqlalchemy
+pip install SQLAlchemy==1.4.46
 pymysql
